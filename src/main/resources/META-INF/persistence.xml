@@ -4,8 +4,7 @@
     <provider>org.hibernate.jpa.HibernatePersistenceProvider
         </provider>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-52-72-221-20.compute-1.amazonaws.com
-:5432/darrrvrmotoj5v"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://ec2-52-72-221-20.compute-1.amazonaws.com:5432/darrrvrmotoj5v"/>
       <property name="javax.persistence.jdbc.user" value="nmtkmflyumiesg"/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
       <property name="javax.persistence.jdbc.password" value="e97ae4c7a543d9db206eaf3907f6e7b805caea0682eef1ac05f1a6b4fb85d79a"/>
